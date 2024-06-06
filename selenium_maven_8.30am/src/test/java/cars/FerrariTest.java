@@ -13,6 +13,7 @@ public class FerrariTest {
 		driver.get("https://www.ferrari.com/");
 		Reporter.log("Ferrari lunched successfully", true);
 		Reporter.log("FerrariTest class is modified", true);
+		Reporter.log("FerrariTest class is added", true);
 	}
 
 }
